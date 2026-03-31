@@ -40,5 +40,9 @@ The app uses the Nutritionix API to fetch real-time nutrition data and provides 
 ```bash
 gradlew installDebug
 
-
+------------------------------------------------------------------------------
+### Important note :
+The API key used in this project is expired!!
+To generate a new API key visit - https://developer.nutritionix.com/
+and generate a new API key and replace that in 
 
